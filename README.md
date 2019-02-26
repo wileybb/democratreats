@@ -1,7 +1,7 @@
 # democratreats
 Bringing Ancient Greek politics to life.
 
-## What
+## What is Democratreats?
 
 Democratreats is a polling web app designed to help people make decisions, whether it's a global change or a simple snack suggestion. This application allows permissioned admins to create polls that user accounts can vote on. Like a ballot box, the votes are completely private and anonymous, and each user can only cast one vote in each poll. 
 
@@ -9,6 +9,7 @@ Democratreats is a polling web app designed to help people make decisions, wheth
 
 ```
 Node.js,
+Express,
 Handlebars.js,
 Passport.js,
 Moment.js,
