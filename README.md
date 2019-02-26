@@ -20,7 +20,7 @@ API routes
  
 ## Flow
 
-THE EMPLOYEE - 
+THE USER - 
 *creates an account*
 
 *suggests an item*
