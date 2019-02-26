@@ -1,4 +1,4 @@
-# democratreats
+# Democratreats
 Bringing Ancient Greek politics to life.
 
 ## What is Democratreats?
