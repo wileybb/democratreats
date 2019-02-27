@@ -66,12 +66,14 @@ There are be two kinds of accounts that can be created with different privileges
 
 Democratreats makes an easy-to-use space for community input to build a healthy, active culture and make decisions with transperancy and privacy. We the creators want to promote the democratic process while giving options to communicate with peers and leadership.
 
-## Challenges
 
-Not every project turns out exactly according to plan, and this is no exception. Building a relational database with user authentication is no easy feat at first attempt. Making sure the tables were constructed and joined to correctly track user information and poll data took some time, but was an illuminating process. Giving admin users full ability to create, read, update, and delete polls was a whole other ordeal that only with time and effort were we able to complete.
-## Stretch Goals
+## Future Goals
 
-Ideas for improvement: give all accounts a private chat feature to communicate with another user, plus access to a public forum. These are our top two candidates for future functionality, as they would realize the platform's intended goal to open up an effective communication outlet. Other possible additions include a comprehensive user profile which can specify a user's function in the community. Is this user a core member of a certain team? Is this admin an HR representative of a certain branch? These questions and others are answered with a more robust account for each user.
+Heroku deployment
+Convert to MongoDB
+Have a set time expiration for the polls
+Include GoogleOAuth
+
 
 ## Contributors
 
