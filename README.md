@@ -69,10 +69,10 @@ Democratreats makes an easy-to-use space for community input to build a healthy,
 
 ## Future Goals
 
-# Heroku deployment
-# Convert to MongoDB
-# Have a set time expiration for the polls
-# Include GoogleOAuth
+* Heroku deployment
+* Convert to MongoDB
+* Have a set time expiration for the polls
+* Include GoogleOAuth
 
 
 ## Contributors
