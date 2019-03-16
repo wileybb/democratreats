@@ -1,7 +1,7 @@
 # Democratreats
 Bringing Ancient Greek politics to life.
 
-## DEVELOPER'S NOTE: Heroku deployed version in progress!
+## Heroku deployed link: https://damp-headland-74421.herokuapp.com/
 
 ## What is Democratreats?
 
